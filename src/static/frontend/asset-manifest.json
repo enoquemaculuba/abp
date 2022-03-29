@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/static/css/main.ae8d0a36.css",
+    "main.js": "/static/js/main.ebcf4777.js",
+    "static/js/787.cda612ba.chunk.js": "/static/js/787.cda612ba.chunk.js",
+    "static/media/cropped-aaltobeerpong-1-2.png": "/static/media/cropped-aaltobeerpong-1-2.9a007ef6091a7320c2c2.png",
+    "static/media/aalt_beer_pong_logo.png": "/static/media/aalt_beer_pong_logo.fa348a563912ac412842.png",
+    "static/media/revicons.eot": "/static/media/revicons.a77de540a38981833f9e.eot",
+    "static/media/revicons.ttf": "/static/media/revicons.57fd05d4ae650374c8de.ttf",
+    "static/media/revicons.woff": "/static/media/revicons.e8746a624ed098489406.woff",
+    "index.html": "/index.html",
+    "main.ae8d0a36.css.map": "/static/css/main.ae8d0a36.css.map",
+    "main.ebcf4777.js.map": "/static/js/main.ebcf4777.js.map",
+    "787.cda612ba.chunk.js.map": "/static/js/787.cda612ba.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ae8d0a36.css",
+    "static/js/main.ebcf4777.js"
+  ]
+}
